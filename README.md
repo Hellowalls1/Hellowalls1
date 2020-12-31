@@ -7,7 +7,7 @@
 - 👽 Pronouns: He/him  
   
 
-- 🌱 I’m currently learning PHP while expanding my knowledge of React, Javascript, & C#.   
+- 🌱 I’m currently expanding my knowledge of React, Javascript, C/.Net, MS SQL Server, PostgreSQL, GIT, CSS, HTML, and other new technologies. 
   
 
 - ❓ Ask me about my favorite restaurants in town!  
@@ -26,6 +26,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sql-original.svg" alt="C#" height="50" />  
 </div>
 <br/>  
 
